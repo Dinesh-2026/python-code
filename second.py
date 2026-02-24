@@ -4,6 +4,5 @@ arr = [1, 2, 3, 4, 5]
 for nums in arr:
     print(nums)
     print(nums * 2)
-    print(nums * 3)
-
+    print(nums)
     
