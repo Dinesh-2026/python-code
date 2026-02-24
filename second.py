@@ -5,4 +5,5 @@ for nums in arr:
     print(nums)
     print(nums * 2)
     print(nums * 3)
+
     
