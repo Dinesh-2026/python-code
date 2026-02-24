@@ -1,14 +1,11 @@
-afg'l'<i class="fa fa-languagelgga,
-lalg,
-" aria-hidden="true"></i>
-agkjkbm <div class="jumbotron">
-    <h1 class="display-3">Jumbo heading</h1>
-    <p class="lead">Jumbo helper text</p>
-    <hr class="my-2">
-    <p>More info</p>
-    <p class="lead">
-        <a class="btn btn-primary btn-lg" href="Jumbo action link" role="button">Jumbo action name</a>
-    </p>
+agkga;kljgjopjpoKGJPOmgM;LMM
+KKMMm ,bma;,'
+MVMVMM
+<i class="<i class="<i class="fa fa-h-square
+" aria-hidden="true"></i> fa-house-flood    "></i> fa-dice-five    "></i>\
+g/\g'\\
+\g,,.<div class="alert alert-success" role="alert">
+    <strong>success</strong>
 </div>
-kmamm;ag;
-,bm;l,action
+ll,g,;>
+action
